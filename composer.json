@@ -1,0 +1,31 @@
+{
+  "name": "diecoding/yii2-date-i18n",
+  "description": "Yii2 Components",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "extension", "components", "date", "diecoding"],
+  "license": "BSD-3-Clause",
+  "support": {
+    "issues": "https://github.com/die-coding/yii2-date-i18n/issues",
+    "source": "https://github.com/die-coding/yii2-date-i18n"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "diecoding\\date\\i18n": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "authors": [
+    {
+      "name": "Die Coding",
+      "email": "diecoding@gmail.com"
+    }
+  ]
+}
